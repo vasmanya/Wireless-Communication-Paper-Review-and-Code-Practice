@@ -6,3 +6,5 @@
    * You can find the original papers, summary of reviewed papers and codes for simulation.
 
 ### Random Access in Cellular Networks
+* **A Novel Random Access for Fixed-Location Machine-to-Machine Communications in OFDMA Based Systems
+
