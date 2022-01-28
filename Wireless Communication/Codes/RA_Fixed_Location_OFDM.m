@@ -59,7 +59,7 @@ for j = 1:9
  
      end  
 
-            prob_collision(j) = collision/iterations;
+            prob_collision(j) = collision/iterations;  % simulated collision probability
 end    
  
 semilogy(k, prob_collision,'ks')
@@ -118,7 +118,7 @@ for j = 1:9
  
      end  
 
-            prob_collision(j) = collision/iterations;
+            prob_collision(j) = collision/iterations;  % simulated collision probability
 end    
  
 semilogy(k, prob_collision,'bo')
