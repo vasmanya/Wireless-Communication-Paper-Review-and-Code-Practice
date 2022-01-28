@@ -7,5 +7,5 @@
 
 ### Random Access in Cellular Networks
 * **A Novel Random Access for Fixed-Location Machine-to-Machine Communications in OFDMA Based Systems**
-  * [Original Paper](https://ieeexplore.ieee.org/abstract/document/6249701) / [Presentation Summary](https://docs.google.com/presentation/d/1Beofxq3hwaq4MCLvSkrLJKdvMrQdDCt-/edit#slide=id.p11) / [Code Practice](https://github.com/vasmanya/Wireless-Communication-Paper-Review-and-Code-Practice/commit/ab3eacdacce6adbdc320d34a68f5b0f2efa4b9e5)
+  * [Original Paper](https://ieeexplore.ieee.org/abstract/document/6249701) / [Presentation Summary](https://docs.google.com/presentation/d/1Beofxq3hwaq4MCLvSkrLJKdvMrQdDCt-/edit#slide=id.p11) / [Code Practice](https://github.com/vasmanya/Wireless-Communication-Paper-Review-and-Code-Practice/blob/main/Wireless%20Communication/Codes/RA_conv_prop_anal.m)
 
