@@ -1,5 +1,5 @@
 # Wireless Communication: Paper Review and Code Practice
-* This repository is for Wireless communication paper reviews and simulations of the reviewed papers.
+* **This repository is for Wireless communication paper reviews and simulations of the reviewed papers.**
 
   * We introduce latest wireless communication concepts and papers.
 
@@ -7,4 +7,5 @@
 
 ### Random Access in Cellular Networks
 * **A Novel Random Access for Fixed-Location Machine-to-Machine Communications in OFDMA Based Systems**
+  * [Original Paper](https://ieeexplore.ieee.org/abstract/document/6249701)
 
