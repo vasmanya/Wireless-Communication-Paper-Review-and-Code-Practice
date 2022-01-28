@@ -31,7 +31,7 @@ grid on
 hold on
 
 semilogy(k,P_col_prop, '--', LineWidth=1)
-ylim([10^-4 1])
+ylim([10^-3 1])
 
 hold on
 
@@ -63,7 +63,7 @@ for j = 1:9
 end    
  
 semilogy(k, prob_collision,'ks')
-ylim([10^-4 1])
+ylim([10^-3 1])
 
 
 hold on
@@ -85,12 +85,12 @@ for i = RA_attempts
 end
 
 semilogy(k, P_col_conv, '-', LineWidth=1)
-ylim([10^-4 1])
+ylim([10^-3 1])
 
 hold on
 
 semilogy(k,P_col_prop, '--', LineWidth=1)
-ylim([10^-4 1])
+ylim([10^-3 1])
 
 hold on
 
@@ -122,7 +122,7 @@ for j = 1:9
 end    
  
 semilogy(k, prob_collision,'bo')
-ylim([10^-4 1])
+ylim([10^-3 1])
 
 
 legend('M=20 conv(anal)', 'M=20 prop(anal)', 'M=20 conv(sim)', 'M=5 conv(anal)', 'M=5 prop(anal)', 'M=5 conv(sim)',  Location = 'best')
