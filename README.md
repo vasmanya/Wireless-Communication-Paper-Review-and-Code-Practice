@@ -11,4 +11,4 @@
 
 ### Information-theoretic Security
 * **Guaranteeing Secrecy using Artifician Noise**
-  * [Original Paper](https://ieeexplore.ieee.org/abstract/document/4543070)
+  * [Original Paper](https://ieeexplore.ieee.org/abstract/document/4543070) / [Code Practice](https://github.com/vasmanya/Wireless-Communication-Paper-Review-and-Code-Practice/blob/main/Wireless%20Communication/Codes/guaranteeing_secrecy_using_artificial_noise.m)
